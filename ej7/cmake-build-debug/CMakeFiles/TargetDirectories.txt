@@ -1,0 +1,3 @@
+/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/ej7/cmake-build-debug/CMakeFiles/ej7.dir
+/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/ej7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/ej7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

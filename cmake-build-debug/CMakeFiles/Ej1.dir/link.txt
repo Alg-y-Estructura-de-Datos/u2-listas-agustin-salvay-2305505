@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Ej1.dir/Ej1.cpp.o CMakeFiles/Ej1.dir/node.cpp.o CMakeFiles/Ej1.dir/DoubleLinkedList.cpp.o -o Ej1

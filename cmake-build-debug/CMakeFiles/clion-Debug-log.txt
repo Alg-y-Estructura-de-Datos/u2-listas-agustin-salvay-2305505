@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505" -B "/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug
