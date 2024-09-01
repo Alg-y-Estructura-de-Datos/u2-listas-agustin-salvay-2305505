@@ -1,7 +1,11 @@
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej1.dir
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej2.dir
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej3.dir
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej7.dir
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej9.dir
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej1.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej2.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej3.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej7.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej9.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/ej4.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/ej5.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/ej6.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/ej8.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/rebuild_cache.dir

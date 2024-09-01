@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/agustinmiranda/Downloads/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/Ej2.cpp" "CMakeFiles/Ej2.dir/Ej2.cpp.o" "gcc" "CMakeFiles/Ej2.dir/Ej2.cpp.o.d"
+  "C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/Ej2.cpp" "CMakeFiles/Ej2.dir/Ej2.cpp.obj" "gcc" "CMakeFiles/Ej2.dir/Ej2.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

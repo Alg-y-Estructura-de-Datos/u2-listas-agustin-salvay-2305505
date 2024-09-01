@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Ej7.dir/Ej7.cpp.o"
-  "CMakeFiles/Ej7.dir/Ej7.cpp.o.d"
-  "Ej7"
+  "CMakeFiles/Ej7.dir/ej7.cpp.obj"
+  "CMakeFiles/Ej7.dir/ej7.cpp.obj.d"
+  "Ej7.exe"
+  "Ej7.exe.manifest"
   "Ej7.pdb"
+  "libEj7.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,3 +1,3 @@
-/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/ej4/cmake-build-debug/CMakeFiles/ej4.dir
-/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/ej4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u2-listas-agustin-salvay-2305505/ej4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/ej4/cmake-build-debug/CMakeFiles/ej4.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/ej4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/UCC/programacion III/u2-listas-agustin-salvay-2305505/ej4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

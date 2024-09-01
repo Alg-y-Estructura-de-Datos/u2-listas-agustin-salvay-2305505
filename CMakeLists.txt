@@ -16,3 +16,7 @@ add_executable(Ej9 Ej9.cpp
         node.h
         DoubleLinkedList.cpp
         DoubleLinkedList.h)
+add_executable(ej4 ej4.cpp)
+add_executable(ej5 ej5.cpp)
+add_executable(ej6 ej6.cpp)
+add_executable(ej8 ej8.cpp)

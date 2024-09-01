@@ -1,12 +1,14 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Ej1.dir/DoubleLinkedList.cpp.o"
-  "CMakeFiles/Ej1.dir/DoubleLinkedList.cpp.o.d"
-  "CMakeFiles/Ej1.dir/Ej1.cpp.o"
-  "CMakeFiles/Ej1.dir/Ej1.cpp.o.d"
-  "CMakeFiles/Ej1.dir/node.cpp.o"
-  "CMakeFiles/Ej1.dir/node.cpp.o.d"
-  "Ej1"
+  "CMakeFiles/Ej1.dir/DoubleLinkedList.cpp.obj"
+  "CMakeFiles/Ej1.dir/DoubleLinkedList.cpp.obj.d"
+  "CMakeFiles/Ej1.dir/Ej1.cpp.obj"
+  "CMakeFiles/Ej1.dir/Ej1.cpp.obj.d"
+  "CMakeFiles/Ej1.dir/node.cpp.obj"
+  "CMakeFiles/Ej1.dir/node.cpp.obj.d"
+  "Ej1.exe"
+  "Ej1.exe.manifest"
   "Ej1.pdb"
+  "libEj1.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

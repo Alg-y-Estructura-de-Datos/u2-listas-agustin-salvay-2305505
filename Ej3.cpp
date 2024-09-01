@@ -43,44 +43,42 @@ void intercambiarListas(Lista<int>& lista1, Lista<int>& lista2) {
 }
 
 int main() {
+    Lista<int> lista1;
+    Lista<int> lista2;
+    int n, d, p, q;
 
-
-        Lista<int> lista1;
-        Lista<int> lista2;
-    int n,d,p, q;
-
-    cout << "ingrese el tamaño de la lista 1" << endl;
-    cin >>n;
+    cout << "Ingrese el tamaño de la lista 1: ";
+    cin >> n;
 
     for (int i = 0; i < n; i++) {
-        cout << "ingrese el numero " << i + 1 << ": ";
+        cout << "Ingrese el numero " << i + 1 << ": ";
         cin >> d;
         lista1.insertarUltimo(d);
     }
 
-    cout << "ingrese el tamaño de la lista 2" << endl;
-    cin >>p;
+    cout << " Ingrese el tamaño de la lista 2: ";
+    cin >> p;
 
-    for (int i = 0; i < n; i++) {
-        cout << "ingrese el numero " << i + 1 << ": ";
+    for (int i = 0; i < p; i++) {
+        cout << "Ingrese el numero " << i + 1 << ": ";
         cin >> q;
-        lista2.insertarUltimo(d);
+        lista2.insertarUltimo(q);
     }
 
-        cout << "Lista 1 antes de intercambiar: ";
-        lista1.print();
+    cout << "Lista 1 antes de intercambiar: ";
+    lista1.print();
 
-        cout << "Lista 2 antes de intercambiar: ";
-        lista2.print();
+    cout << "Lista 2 antes de intercambiar: ";
+    lista2.print();
 
-        // Intercambiar los elementos de las listas
-        intercambiarListas(lista1, lista2);
+    // Intercambiar los elementos de las listas
+    intercambiarListas(lista1, lista2);
 
-        cout << "Lista 1 después de intercambiar: ";
-        lista1.print();
+    cout << "Lista 1 después de intercambiar: ";
+    lista1.print();
 
-        cout << "Lista 2 después de intercambiar: ";
-        lista2.print();
+    cout << "Lista 2 después de intercambiar: ";
+    lista2.print();
 
     return 0;
 }
